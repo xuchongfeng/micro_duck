@@ -1,0 +1,12 @@
+title: PeonBot / Micro Duck
+description: Open Duck Mini 双足机器人 · 仿真优先 · 苦工改造 · 从 0 到落地
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# GitHub Pages 从 /docs 发布时使用
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

@@ -1,0 +1,29 @@
+category,name,spec,qty,unit_price_cny_min,unit_price_cny_max,subtotal_min,subtotal_max,taobao_keyword,phase,notes
+servo,主舵机,Feetech STS3215 ST-3215-C001 7.4V 19kg TTL,14,85,110,1190,1540,飞特 STS3215 7.4V C001,2,勿买虚拟舵机
+servo,天线舵机,9g SG90/FS90,2,8,15,16,30,9g 舵机 SG90,2,PWM非总线
+driver,舵机驱动板,Waveshare STS3215 半双工总线,1,60,90,60,90,Waveshare 总线舵机驱动,2,
+compute,主控,Raspberry Pi Zero 2 W,1,180,280,180,280,树莓派 Zero 2W,2,
+storage,存储卡,microSD 32GB High Endurance U3,1,40,60,40,60,闪迪 High Endurance 32G,2,
+imu,姿态传感器,BNO055 I2C,1,25,45,25,45,GY-BNO055,2,
+audio,功放,MAX98357A I2S,1,8,15,8,15,MAX98357A I2S,2,
+audio,喇叭,4Ω 3W,1,5,12,5,12,4欧 3瓦 喇叭,2,
+camera,摄像头,Pi Camera Module,1,30,80,0,80,树莓派摄像头,2,可选
+bearing,轴承,608ZZ 8x22x7,3,2,5,6,15,608ZZ 轴承,2,
+switch,微动开关,SS-10 脚着地,4,1,3,4,12,SS-10 微动开关,2,
+fastener,热熔螺母,M3x4x5 铜,80,0.08,0.15,6,12,M3 热熔螺母,2,
+fastener,螺丝,M3 组合盒装,1,20,40,20,40,M3 螺丝盒装,2,
+chemical,螺纹胶,乐泰243 中强度,1,25,40,25,40,乐泰 243,2,
+wire,杜邦线,母母公母各一捆,2,5,10,10,20,杜邦线,2,
+power,电芯,18650 品牌,2,25,40,50,80,三星 18650,2,勿无牌
+power,电池盒,2S 18650支架,1,5,15,5,15,18650 2S 电池盒,2,
+power,保护板,2S BMS,1,5,12,5,12,2S BMS,2,
+power,降压,5V UBEC 3A+,1,15,30,15,30,UBEC 5V 降压,2,
+power,连接器,XT30 公母对,4,2,3,8,12,XT30,2,
+power,充电,USB-C 锂电充电模块,1,5,12,5,12,TP4056 Type-C,2,
+power,DC座,2.1mm 桶形,1,2,5,2,5,2.1mm DC座,2,
+power,开关,拨动开关,1,2,5,2,5,拨动开关,2,
+wire,硅胶线,22AWG 红黑各2m,1,10,15,10,15,硅胶线 22AWG,2,
+consumable,焊锡,0.8mm,1,15,25,15,25,焊锡丝,2,
+filament,PLA,1.75mm 约700g,1,50,70,50,70,eSun PLA,2,15%填充
+filament,TPU,95A 约40g,1,15,40,15,40,TPU 95A,2,40%填充脚垫
+cable,短线,Micro USB转USB-C 15cm,1,5,10,5,10,Micro USB转Type-C,2,
