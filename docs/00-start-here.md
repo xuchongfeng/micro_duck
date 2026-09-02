@@ -27,6 +27,8 @@
     ↓
 第 1 步  01-getting-started/prerequisites   买/准备什么软件硬件
     ↓
+第 1.5 步 02-simulation/microduck-official-path  官方路径总览（必读）
+    ↓
 第 2 步  02-simulation/windows-setup         装 WSL2、驱动
     ↓
 第 3 步  02-simulation/gtx1060-pytorch       装 PyTorch（1060 专用版本）

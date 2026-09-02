@@ -8,12 +8,13 @@
 
 | 顺序 | 文档 | 预计耗时 |
 |------|------|----------|
-| 0 | [hf-simulator.md](hf-simulator.md) | 10 min（零安装） |
-| 1 | [windows-setup.md](windows-setup.md) | 1–2 h |
-| 2 | [gtx1060-pytorch.md](gtx1060-pytorch.md) | 30 min |
-| 3 | [microduck-rl.md](microduck-rl.md) | 30 min + 挂机训练 |
-| 4 | [../05-training/gtx1060-tuning.md](../05-training/gtx1060-tuning.md) | 参考 |
-| 5 | [../05-training/export-onnx.md](../05-training/export-onnx.md) | 训练完成后 |
+| 0 | [microduck-official-path.md](microduck-official-path.md) | 15 min（总览，先读） |
+| 1 | [hf-simulator.md](hf-simulator.md) | 10 min（零安装） |
+| 2 | [windows-setup.md](windows-setup.md) | 1–2 h |
+| 3 | [gtx1060-pytorch.md](gtx1060-pytorch.md) | 30 min |
+| 4 | [microduck-rl.md](microduck-rl.md) | 30 min + 挂机训练 |
+| 5 | [../05-training/gtx1060-tuning.md](../05-training/gtx1060-tuning.md) | 参考 |
+| 6 | [../05-training/export-onnx.md](../05-training/export-onnx.md) | 训练完成后 |
 
 ## 阶段目标
 

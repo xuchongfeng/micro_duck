@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+### Added — Microduck 官方路径总览
+
+- `02-simulation/microduck-official-path.md`：官方 README/关联文档实现路径、知识分层、前置学习路线、1060 仿真速查
+- 更新 `02-simulation/index.md`、`00-start-here.md` 阅读顺序
+
 ### Added — 完整零基础落地文档（全章节）
 
 - `00-start-here.md`、`glossary.md` 零基础入口与术语
